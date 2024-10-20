@@ -1,6 +1,7 @@
 <h1 align="center">HI!!</h1>
 
 - ➡️ Contact **gonzalojimenezcarretero@gmail.com**
+- I am currently a student. 
 ## 🛠️ Programming languages I know 
   
 <br />
@@ -28,3 +29,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GonzaloJCC&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<img align="right" width="1050" alt="snake2" src="https://imgur.com/uqIdteX.png" />
