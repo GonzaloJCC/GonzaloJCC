@@ -2,7 +2,7 @@
 
 - ➡️ Contact **gonzalojimenezcarretero@gmail.com**
 - I am currently a student. 
-## 🛠️ Programming languages I know 
+## 🛠️ Programming languages I have experience with
   
 <br />
   
