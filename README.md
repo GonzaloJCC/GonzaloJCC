@@ -16,7 +16,7 @@
     <a href="https://www.java.com" target="_blank">
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
     </a>
-</div>
+<!-- </div>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaloJCC&theme=algolia" alt="GonzaloJCC"  /></p>
@@ -28,6 +28,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GonzaloJCC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GonzaloJCC&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 <img align="right" width="1050" alt="snake2" src="https://imgur.com/uqIdteX.png" />
