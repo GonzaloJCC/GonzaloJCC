@@ -1,4 +1,4 @@
-<h1> HI!! </h1>
+<h1 align="center"> HI!! </h1>
 
 <table width="100%" style="background-color:#001f3f;">
   <tr>
