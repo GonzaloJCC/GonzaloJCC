@@ -4,7 +4,7 @@
   <tr>
     <td width="60%" valign="middle" align="left" style="color:#00ff00;">
       <p>
-        I'm eager to learn and passionate about Python programming. Currently studying.  
+        I'm eager to learn and passionate about programming. Currently studying.  
 I enjoy planning and building projects that challenge me to improve my skills.
       </p>
     </td>
